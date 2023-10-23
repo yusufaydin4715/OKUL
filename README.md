@@ -9,4 +9,4 @@ Flowchat ile daha hızlı anlık bildirim sağlanıyor
 
 <h2> Ekran Görüntüsü </h2>
 
-!{}(ekran.gif)
+![](ekran.gif)
